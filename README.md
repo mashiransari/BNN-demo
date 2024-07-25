@@ -1,3 +1,3 @@
 # BNN-demo
-this is my first repository
-Aothor-Mashir Ansari
+this is my first repository.
+Author-Mashir Ansari
